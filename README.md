@@ -25,8 +25,11 @@ O dashboard visa permitir a visualização e análise de métricas fundamentais 
 - Filtro para alternar entre diferentes anos de análise (2011, 2012, 2013), permitindo a exploração detalhada de períodos específicos.
 
 ## 🖼️ Visualização do Dashboard
-- Gráfico mostrando a evolução das vendas ao longo dos meses.
-- Mapa global de clientes e gráfico de vendas por país.
+![](https://github.com/Barrosepm/Dashboard-de-Vendas/blob/main/Home.JPG)
+![](https://github.com/Barrosepm/Dashboard-de-Vendas/blob/main/Clientes.JPG)
+![](https://github.com/Barrosepm/Dashboard-de-Vendas/blob/main/Vis%C3%A3o%20Geral.JPG)
+
+
 
 ## 🔍 Análises e Insights
 Este dashboard permite responder a perguntas estratégicas, como:
